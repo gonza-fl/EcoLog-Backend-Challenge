@@ -55,8 +55,9 @@ Este endpoint no guarda nada en la DB, sino que realiza un proceso de "vuelo":
 
 ### ⏱️ Entrega y Metodología
 *   **Fase 1 (Análisis)**: 30 minutos sin escribir código. Diseñen su esquema y piensen cómo van a estructurar las carpetas.
-*   **Fase 2 (Base)**: Implementar el CRUD y el manejo de errores centralizado.
-*   **Fase 3 (Investigación)**: Conectar con Gemini y generar los archivos.
+*   **Fase 2 (Configuración Entorno)**: Configurar el entorno, la base de datos (MongoDB Atlas) y las dependencias.
+*   **Fase 3 (Desarrollo Base)**: Implementar el CRUD y el manejo de errores centralizado.
+*   **Fase 4 (Investigación)**: Conectar con Gemini y generar los archivos.
 
 > **Regla de Oro**: Si el código falla, el Error Handler Centralizado debe capturar el error y devolver un JSON prolijo, ¡nunca dejen que el servidor se caiga!
 

@@ -1,0 +1,21 @@
+{
+  "name": "ecolog-backend-challenge",
+  "version": "1.0.0",
+  "description": "¡Bienvenidos al desafío final de Mongoose y Express! En este proyecto deberán aplicar todo lo aprendido sobre APIs REST y enfrentar retos del mundo real: **integración con IA y generación de reportes físicos.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonza-fl/EcoLog-Backend-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gonza-fl/EcoLog-Backend-Challenge/issues"
+  },
+  "homepage": "https://github.com/gonza-fl/EcoLog-Backend-Challenge#readme"
+}
